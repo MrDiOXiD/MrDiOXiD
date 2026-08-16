@@ -30,7 +30,7 @@
         <rect width="190" height="112" rx="18" fill="#0b2227" stroke="#1aa595" />
         <text x="22" y="30" class="label">CONTRIBUTIONS</text>
         <text x="22" y="70" class="metric" fill="#9b6cff">
-            <tspan fill="#9b6cff">74</tspan>
+            <tspan fill="#9b6cff">5</tspan>
         </text>
         <rect x="22" y="88" width="144" height="7" rx="4" fill="#203b40" />
         <rect x="22" y="88" width="132" height="7" rx="4" fill="#9b6cff" class="bar"
